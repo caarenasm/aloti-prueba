@@ -14,7 +14,8 @@ Este es un proyecto de ejemplo para gestionar tareas usando Laravel. La aplicaci
 
 Primero, clona el repositorio a tu máquina local:
 
-git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/caarenasm/aloti-prueba.git)
+git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/caarenasm/aloti-prueba.git) 
+
 cd aloti-prueba
 
 ### 2. Instalar las dependencias de PHP
@@ -26,6 +27,7 @@ composer install
 ### 3. Configurar el archivo .env
 
 Copia el archivo .env.example a .env:
+
 cp .env.example .env
 
 Edita el archivo .env y configura las variables de entorno, especialmente las relacionadas con la base de datos:
