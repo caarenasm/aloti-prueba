@@ -14,8 +14,8 @@ Este es un proyecto de ejemplo para gestionar tareas usando Laravel. La aplicaci
 
 Primero, clona el repositorio a tu máquina local:
 
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
+git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/caarenasm/aloti-prueba.git)
+cd aloti-prueba
 
 ### 2. Instalar las dependencias de PHP
 
